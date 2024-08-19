@@ -5,3 +5,7 @@ function hello_world(argument) {
 function goodbye(argument) {
     console.log("Goodbye!")
 }
+
+function func_new(argument) {
+    console.log("Function New!")
+}
