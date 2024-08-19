@@ -6,6 +6,10 @@ function goodbye(argument) {
     console.log("Goodbye!")
 }
 
+function thanks(argument) {
+    console.log("Thanks!")
+}
+
 function func_new(argument) {
     console.log("Function New!")
 }
