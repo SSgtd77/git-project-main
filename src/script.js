@@ -13,3 +13,7 @@ function func_new(argument) {
 function function_one(argument) {
     console.log("Function One!")
 }
+
+function function_two(argument) {
+    console.log("Function Two!")
+}
