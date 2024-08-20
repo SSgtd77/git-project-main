@@ -29,3 +29,7 @@ function function_three(argument) {
 function fun(argument) {
     console.log("Function fun!")
 }
+
+function function_nine(argument) {
+    console.log("Function Nine!")
+}
