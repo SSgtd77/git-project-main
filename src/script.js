@@ -11,7 +11,7 @@ function thanks(argument) {
 }
 
 function func_new(argument) {
-    console.log("Function New!")
+    console.log("Function func_new!")
 }
 
 function function_one(argument) {
