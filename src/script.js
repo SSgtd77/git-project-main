@@ -25,3 +25,7 @@ function function_two(argument) {
 function function_three(argument) {
     console.log("Function Three!")
 }
+
+function fun(argument) {
+    console.log("Function fun!")
+}
